@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pride_palettes
+message: >-
+  If you wish to cite this software, you may use the
+  metadata included in this file - however, no citation is
+  required for use, and I encourage users to download/fork
+  this repo and make use of it for whatever they would like!
+type: software
+authors:
+  - given-names: Cailin
+    family-names: Gallinger
+    email: cgallin4@uwo.ca
+    affiliation: University of Western Ontario
+    orcid: 'https://orcid.org/0000-0002-1465-7447'
+abstract: >-
+  A collection of Matplotlib colormaps representing a
+  variety of different LGBTQ+ pride flags.
+keywords:
+  - matplotlib
+  - lgbtq
+  - pride
+license: GPL-2.0-or-later
+commit: 89ee9c7396aa047a539b0f6bf6b1b8ae5c4fd47a
+version: 0.0.1
+date-released: '2020-06-16'
